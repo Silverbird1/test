@@ -4,5 +4,5 @@ var git_test_vars = {
 	c: 100,
 
 	d: "Using these varibles"
-	e: "in the proper way"
+	e: "to create a conflict"
 };
